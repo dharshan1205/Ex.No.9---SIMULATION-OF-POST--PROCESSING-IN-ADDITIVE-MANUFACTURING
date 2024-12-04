@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 04/12/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,25 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![EMPD !1](https://github.com/user-attachments/assets/1acda6c2-9bee-4d04-bc28-d16986ca3a78)
+![EMPD !2](https://github.com/user-attachments/assets/72d7bf6e-a619-4b72-9518-bcba666599e0)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![EMPD #3](https://github.com/user-attachments/assets/595aed8d-b867-4513-a596-08c19cde10d6)
+![EMPD 4](https://github.com/user-attachments/assets/fd0dc7e5-d163-490e-a7d1-19b6cdec135b)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![EMPD](https://github.com/user-attachments/assets/7791e533-aeed-4c09-ae99-7badaca6d077)
+![EMPD 5](https://github.com/user-attachments/assets/3af787ee-dbdf-4fe6-a017-cf513cbff53b)
 
 ## Output:
+![Screenshot 2024-12-04 111213](https://github.com/user-attachments/assets/87235dac-ecdb-411c-bd43-820216132e9f)
+![Screenshot 2024-12-04 111238](https://github.com/user-attachments/assets/33c25e31-6232-48f2-a84e-f9e20e7d487d)
+![Screenshot 2024-12-04 111309](https://github.com/user-attachments/assets/f04e6f63-d30d-4d40-93f5-51b080c9f67a)
 
-### Name:
-### Register Number:
+### Name: DHARSHAN R
+### Register Number:24901254
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
